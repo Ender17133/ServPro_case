@@ -1,4 +1,11 @@
-﻿ServPro, lnc, 
+[![Open Excel](https://img.shields.io/badge/Open-Excel-green?logo=microsoft-excel&style=for-the-badge)](https://github.com/Ender17133/ServPro_case/blob/main/ServPro.xlsx)
+[![Open PDF](https://img.shields.io/badge/Open-PDF-red?logo=adobe-acrobat-reader&style=for-the-badge)](https://github.com/Ender17133/ServPro_case/blob/main/SevPro.pdf)
+
+# Imaginary Data Analysis/Business Analytics task 
+
+by: Beibarys Nyussupov 
+
+ ServPro, lnc, 
 
 It all started out peaceably enough. Tom Johnson, one of the new service reps, asked AI Washington and Michael Post about their salaries. It was an innocent enough question and the answers suggested that all three were making about the same money. Nobody seemed concerned. Then, Michael Post said that he had seen a memo on his boss' desk on which salaries for the entire department were listed and noticed something "funny." All three of them were near the bottom of the list. In fact, he said, "Just about every other black in the department was in the bottom half of the list." 
 
